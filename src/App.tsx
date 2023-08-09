@@ -17,6 +17,7 @@ function App() {
         tempusrisu ut. Sit molestie ornare in venen.</Paragraph>
       <Buttons colors={myTheme.color}></Buttons>
       <></>
+      <></>
     </Wrapper>
   );
 }

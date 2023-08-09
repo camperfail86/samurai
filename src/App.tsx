@@ -16,6 +16,7 @@ function App() {
       <Paragraph color={myTheme.color.gray}>Faucibus. Faucibus. Sit sit sapien sit
         tempusrisu ut. Sit molestie ornare in venen.</Paragraph>
       <Buttons colors={myTheme.color}></Buttons>
+      <></>
     </Wrapper>
   );
 }
